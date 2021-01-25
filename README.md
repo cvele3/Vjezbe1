@@ -1,2 +1,2 @@
-# Vjezbe1
-neki opis repozitorija
+# Vjezbe
+Lijep opis repozitorija iz racunalnih
